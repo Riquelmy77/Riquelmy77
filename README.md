@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ### 🤔 I’m looking for help with: Java
 
 ###  📫 How to reach me: Instagram (@kelmin_the_fato)
+
+### Bye 👋
