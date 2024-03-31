@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###  🔭 I’m currently working on: Java
+
+###  🌱 I’m currently learning: Java and Javascript
+
+### 🤔 I’m looking for help with: Java
+
+###  📫 How to reach me: Instagram (@kelmin_the_fato)
