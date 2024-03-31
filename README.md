@@ -1,25 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Riquelmy77/Riquelmy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Java
 
-Here are some ideas to get you started:
+-  🌱 I’m currently learning: Java and Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-###  🔭 I’m currently working on: Java
+- 🤔 I’m looking for help with: Java
 
-###  🌱 I’m currently learning: Java and Javascript
-
-### 🤔 I’m looking for help with: Java
-
-###  📫 How to reach me: Instagram (@kelmin_the_fato)
+ ## 📫 How to reach me:
+<div>
+<a href="https://instagram.com/kelmin_the_fato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ### Bye 👋
