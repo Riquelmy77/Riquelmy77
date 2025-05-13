@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Java 
+- 🔭 I’m currently working on: Javascript
 
--  🌱 I’m currently learning: Java and Javascript
+-  🌱 I’m currently learning: Javascript, Dart
 
-- 🤔 I’m looking for help with: Java
+- 🤔 I’m looking for help with: Javascript
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Riquelmy77&show_icons=true&theme=dracula&count_private=true"/><br>
