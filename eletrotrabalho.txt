@@ -1,0 +1,111 @@
+const int pinLed = 2;
+
+void setup() {
+pinMode(pinLed, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(pinLed, LOW);
+  delay(5000);
+
+  for (int i=0; i<=2; i++){
+    digitalWrite(pinLed, HIGH);
+    delay(1000);
+    digitalWrite(pinLed, LOW);
+    delay(350);
+  }//O
+  delay(650);
+
+  //L
+  digitalWrite(pinLed, HIGH);
+  delay(600);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  digitalWrite(pinLed, HIGH);
+  delay(1000);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  digitalWrite(pinLed, HIGH);
+  delay(600);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  digitalWrite(pinLed, HIGH);
+  delay(600);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  //L
+
+  delay(650);
+
+  //A
+  digitalWrite(pinLed, HIGH);
+  delay(600);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  digitalWrite(pinLed, HIGH);
+  delay(1000);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  //A
+
+  delay(1150);
+
+  //M
+  for(int i = 0; i < 2; i++){
+  digitalWrite(pinLed, HIGH);
+  delay(1000);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  }//M
+  delay(650);
+
+  //U
+  for(int i = 0; i < 2; i++){
+  digitalWrite(pinLed, HIGH);
+  delay(600);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  }
+  digitalWrite(pinLed, HIGH);
+  delay(1000);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  //U
+
+  delay(650);
+
+  //N
+  digitalWrite(pinLed, HIGH);
+  delay(1000);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  digitalWrite(pinLed, HIGH);
+  delay(600);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  //N
+
+  //D
+  digitalWrite(pinLed, HIGH);
+  delay(1000);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  for(int i = 0; i < 2; i++){
+  digitalWrite(pinLed, HIGH);
+  delay(600);
+  digitalWrite(pinLed, LOW);
+  delay(350);
+  }//D
+
+  for (int i=0; i<=2; i++){
+    digitalWrite(pinLed, HIGH);
+    delay(1000);
+    digitalWrite(pinLed, LOW);
+    delay(350);
+  }//O
+
+
+
+
+  
+}
